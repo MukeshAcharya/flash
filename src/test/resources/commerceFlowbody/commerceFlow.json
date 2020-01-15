@@ -1,0 +1,33 @@
+{
+  "username": "cbd_user",
+  "quoteItems": [
+    {
+      "modelCode": "SAMSUNG GALAXY NOTE5 BLACK 32 GB",
+      "quantity": 1,
+      "promoCode": ""
+    }
+  ],
+  "ecpdId": "212121333",
+  "accountNumber": "987456321",
+  "subAccountNumber": "12121",
+  "shippingMaterialMethod": "REQUEST_SHIPPING_MATERIAL",
+  "eCode": "test",
+  "contacts": [
+    {
+      "firstName": "jack",
+      "lastName": "sadf",
+      "companyName": "CONNECT - DD",
+      "addressLine1": "One LBJ Freeway",
+      "addressLine2": "Suite #500",
+      "city": "Farmers Branch",
+      "state": "Texas",
+      "zip": "12121",
+      "phone": "9632587412",
+      "email": "xyz@zzz.com",
+      "numberOfPhones": "1",
+      "numberOfTablets": "0",
+      "numberOfOtherDevices": "0",
+      "isPrimary": "true"
+    }
+  ]
+}
